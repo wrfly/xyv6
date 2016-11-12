@@ -1,0 +1,10 @@
+{ "configs": [
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f1-ipv6","server": "2602:ffc5:20::1:baad", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f1-ipv4","server": "194.122.228.165", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f2-ipv6","server": "2605:f700:40:410::17f6:236f", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f2-ipv4","server": "192.158.191.132", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f3-ipv6","server": "2605:f700:40:410::1215:21fd", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f3-ipv4","server": "192.11.146.12", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f4-ipv6","server": "2605:f700:40:410::30d2:4c25", "server_port": 10000 },
+{ "method": "aes-256-cfb", "password": "pwd", "remarks": "la-f4-ipv4","server": "192.157.218.183", "server_port": 10000 }
+], "localPort": 1080, "shareOverLan": false, "global" : true, "enabled" : true }

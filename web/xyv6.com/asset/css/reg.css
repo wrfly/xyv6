@@ -1,0 +1,36 @@
+html,body {
+background: url(../../asset/img/bg.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.cc {
+margin-top: 50px;
+box-shadow: 5px 20px 60px black;
+padding:20px;
+}
+.content input{
+padding:5px 10px;
+width:200px;
+}
+ul.list{
+background: white;
+list-style:none;
+position: absolute;
+height: auto;
+padding:0px;
+margin:0px;
+/*overflow:hidden;*/
+}
+ul.list li{
+border:1px solid #EEE;
+width:auto;
+padding:5px 10px;
+margin:0px;
+text-overflow:ellipsis;
+overflow:hidden;
+}
+.lilight{
+background-color:rgb(121, 188, 226);
+}
